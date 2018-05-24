@@ -1,3 +1,3 @@
 # clusteRing
-Mean-Shift clutering midification and implementation on a R package
+Mean-Shift clutering midification and implementation on an R package
 # Under construction...
